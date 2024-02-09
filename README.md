@@ -1,6 +1,7 @@
-### Hi there 👋
-# ![alt text](boondocks-riley-freeman.png) Storm Robert
+### Welcome 👋
+
+# 🧑🏾‍🦱 Storm Robert
 
 **`Software Developer`**
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up and help from my peers, from planning and designing all the way to solving real-life problems with code all the way to finalizing the content with artistic touches. 
+"Hey there! 👋 I'm a junior full-stack developer, passionate about crafting my version of the digital world from scratch. I thrive on collaborative projects, working closely with peers to plan, design, and tackle real-life challenges with code. From the foundational stages to adding artistic touches, I'm on a journey of continuous learning and building. Excited to contribute and grow in this dynamic coding community!"
