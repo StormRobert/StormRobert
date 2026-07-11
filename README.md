@@ -106,17 +106,13 @@ Designed the complete user experience for a professional transcription platform 
 
 ---
 
-## Development Activity
+## My Workflow
 
-<div align="center">
-
-<img width="72%" src="https://streak-stats.demolab.com?user=StormRobert&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=StormRobert&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+```text
+                                Design                                        Iterate
+      Idea  ○──────────────────────▶──────────────────────○──────────────────────▶──────────────────────○  Ship
+                  Research                             Development                                       
+```
 
 ---
 
