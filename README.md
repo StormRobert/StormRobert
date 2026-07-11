@@ -1,17 +1,24 @@
 <div align="center">
 
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="150" align="center" valign="middle">
 <img src="avator.png" width="120" height="120" alt="Storm Robert Arasa" />
+</td>
+<td valign="middle" style="padding-left: 16px;">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=3B82F6&center=false&vCenter=true&width=480&lines=Frontend+Engineer;UI%2FUX+Designer;Full+Stack+Developer;Product+Builder" alt="Typing roles" />
+<br/>
+<strong style="font-size: 20px;">Storm Robert Arasa</strong>
+<br/><br/>
+ Nairobi, Kenya &nbsp;·&nbsp;
+<a href="https://stormrobert.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/storm-robert-8a6030252/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:stormarasa2@gmail.com">stormarasa2@gmail.com</a>
+<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI%2FUX+Designer;Full+Stack+Developer;Product+Builder" alt="Storm Robert Arasa" />
-
-### Storm Robert Arasa
-**Nairobi, Kenya** · [stormrobert.vercel.app](https://stormrobert.vercel.app) · [LinkedIn](https://www.linkedin.com/in/storm-robert-8a6030252/) · [stormarasa2@gmail.com](mailto:stormarasa2@gmail.com)
-
-<a href="https://github.com/StormRobert">
-  <img src="https://komarev.com/ghpvc/?username=StormRobert&label=Profile+Views&color=3B82F6&style=flat-square"/>
-</a>
-
-</div>
 
 ---
 
@@ -98,31 +105,24 @@ Designed the complete user experience for a professional transcription platform 
 ---
 
 ## GitHub
-
+ 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=StormRobert&show_icons=true&hide_border=true&theme=transparent&count_private=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=StormRobert&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+</div>
+<br/>
+<div align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StormRobert&theme=tokyonight"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormRobert&layout=compact&hide_border=true&theme=transparent"/>
-
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StormRobert&theme=tokyonight"/>
 </div>
-
+<br/>
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=StormRobert&theme=transparent&hide_border=true"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=StormRobert&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StormRobert&theme=minimal&hide_border=true&area=true&color=3B82F6&line=3B82F6&point=1D4ED8"/>
-
-</div>
-
 ---
-
+ 
 <div align="center">
-
 *"Great products aren't just built. They're carefully crafted."*
-
+ 
 </div>
+ 
