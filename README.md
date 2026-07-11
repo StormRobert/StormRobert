@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="avatar.png" width="120" height="120" alt="Storm Robert Arasa" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI%2FUX+Designer;Full+Stack+Developer;Product+Builder" alt="Storm Robert Arasa" />
 
 ### Storm Robert Arasa
@@ -38,6 +40,7 @@ When I'm not building, I'm usually refining something I've already built, explor
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Selected Work
@@ -91,6 +94,7 @@ Designed the complete user experience for a professional transcription platform 
 </td>
 </tr>
 </table>
+
 ---
 
 ## GitHub
