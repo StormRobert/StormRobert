@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.png" width="120" height="120" alt="Storm Robert Arasa" />
+<img src="avator.png" width="120" height="120" alt="Storm Robert Arasa" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI%2FUX+Designer;Full+Stack+Developer;Product+Builder" alt="Storm Robert Arasa" />
 
