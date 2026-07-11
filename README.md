@@ -107,13 +107,7 @@ Designed the complete user experience for a professional transcription platform 
 ## GitHub
  
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com?user=StormRobert&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-</div>
-<br/>
-<div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StormRobert&theme=tokyonight"/>
-&nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StormRobert&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=StormRobert&theme=tokyonight&hide_border=true"/>
 </div>
 <br/>
 <div align="center">
@@ -125,4 +119,5 @@ Designed the complete user experience for a professional transcription platform 
 *"Great products aren't just built. They're carefully crafted."*
  
 </div>
+ 
  
